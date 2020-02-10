@@ -1,5 +1,7 @@
 ![screenshot-localhost_3000-2020 02](https://user-images.githubusercontent.com/57105956/74186067-ab073300-4c28-11ea-97e5-52747e34488b.png)
 
+![screenshot-localhost_3000-2020 02 (1)](https://user-images.githubusercontent.com/57105956/74186164-d8ec7780-4c28-11ea-8987-f3b99f1eaab5.png)
+
 <p> Aplicação que consome a API do github onde é possivel efetuar a buscar por um repositório informando o dono e repositório, e ao clicar em detalhes conseguimos listar todas as issues desse repositório. </p>
 
 EndPoint: 
