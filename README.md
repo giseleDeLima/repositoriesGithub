@@ -1,3 +1,11 @@
+![screenshot-localhost_3000-2020 02](https://user-images.githubusercontent.com/57105956/74186067-ab073300-4c28-11ea-97e5-52747e34488b.png)
+
+<p> Aplicação que consome a API do github onde é possivel efetuar a buscar por um repositório informando o dono e repositório, e ao clicar em detalhes conseguimos listar todas as issues desse repositório. </p>
+
+EndPoint: 
+https://api.github.com/repos/{owner}/{repo}
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
